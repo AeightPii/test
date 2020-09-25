@@ -48,8 +48,5 @@ public class MainActivity extends AppCompatActivity implements OnCountryPickerLi
         countryName.setText(country.getName());
     }
 
-//    @Override
-//    public void onSelectCountry(Country country) {
-//
-//    }
+
 }
